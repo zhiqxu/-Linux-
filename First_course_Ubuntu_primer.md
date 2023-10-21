@@ -92,7 +92,7 @@ clean:
 
 #### 5. Makefile自动化变量
 
-![image-20231021150343043](C:\Users\Xuzhiqiang\AppData\Roaming\Typora\typora-user-images\image-20231021150343043.png)
+![image-20231021150343043](E:\ZDYZ_Linux\ZDYZ_Linux\image-20231021150343043.png)
 
 示例：
 
